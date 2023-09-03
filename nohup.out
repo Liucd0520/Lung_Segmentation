@@ -1,0 +1,1177 @@
+87 22
+Loading dataset:   0%|          | 0/6 [00:00<?, ?it/s]Loading dataset:  17%|█▋        | 1/6 [00:02<00:13,  2.67s/it]87 22
+Loading dataset:   0%|          | 0/6 [00:00<?, ?it/s]Loading dataset:  17%|█▋        | 1/6 [00:02<00:13,  2.62s/it]Loading dataset:  33%|███▎      | 2/6 [00:56<02:10, 32.57s/it]Loading dataset: 100%|██████████| 6/6 [00:56<00:00,  9.36s/it]
+Loading dataset:   0%|          | 0/6 [00:00<?, ?it/s]Loading dataset:  17%|█▋        | 1/6 [00:29<02:29, 29.87s/it]Loading dataset: 100%|██████████| 6/6 [00:29<00:00,  4.98s/it]87 22
+epoch 1/500 
+epoch 1 average loss: 0.9502
+epoch 2/500 epoch 2 average loss: 0.7719
+saved new best metric model
+current epoch: 2 current liver dice: 0.3778 best mean dice: 0.3778  at epoch: 2
+epoch 3/500 epoch 3 average loss: 0.6902
+epoch 4/500 epoch 4 average loss: 0.6146
+saved new best metric model
+current epoch: 4 current liver dice: 0.5673 best mean dice: 0.5673  at epoch: 4
+epoch 5/500 epoch 5 average loss: 0.5084
+epoch 6/500 epoch 6 average loss: 0.4453
+saved new best metric model
+current epoch: 6 current liver dice: 0.7882 best mean dice: 0.7882  at epoch: 6
+epoch 7/500 epoch 7 average loss: 0.3877
+epoch 8/500 epoch 8 average loss: 0.3382
+saved new best metric model
+current epoch: 8 current liver dice: 0.8587 best mean dice: 0.8587  at epoch: 8
+epoch 9/500 epoch 9 average loss: 0.3459
+epoch 10/500 epoch 10 average loss: 0.3000
+saved new best metric model
+current epoch: 10 current liver dice: 0.9086 best mean dice: 0.9086  at epoch: 10
+epoch 11/500 epoch 11 average loss: 0.2654
+epoch 12/500 epoch 12 average loss: 0.2584
+saved new best metric model
+current epoch: 12 current liver dice: 0.9086 best mean dice: 0.9086  at epoch: 12
+epoch 13/500 epoch 13 average loss: 0.2493
+epoch 14/500 epoch 14 average loss: 0.2315
+saved new best metric model
+current epoch: 14 current liver dice: 0.9341 best mean dice: 0.9341  at epoch: 14
+epoch 15/500 epoch 15 average loss: 0.2318
+epoch 16/500 epoch 16 average loss: 0.2221
+current epoch: 16 current liver dice: 0.9271 best mean dice: 0.9341  at epoch: 14
+epoch 17/500 epoch 17 average loss: 0.2237
+epoch 18/500 epoch 18 average loss: 0.1924
+current epoch: 18 current liver dice: 0.9321 best mean dice: 0.9341  at epoch: 14
+epoch 19/500 epoch 19 average loss: 0.1760
+epoch 20/500 epoch 20 average loss: 0.1933
+saved new best metric model
+current epoch: 20 current liver dice: 0.9414 best mean dice: 0.9414  at epoch: 20
+epoch 21/500 epoch 21 average loss: 0.1993
+epoch 22/500 epoch 22 average loss: 0.2033
+current epoch: 22 current liver dice: 0.9264 best mean dice: 0.9414  at epoch: 20
+epoch 23/500 epoch 23 average loss: 0.1837
+epoch 24/500 epoch 24 average loss: 0.1612
+current epoch: 24 current liver dice: 0.9392 best mean dice: 0.9414  at epoch: 20
+epoch 25/500 epoch 25 average loss: 0.1833
+epoch 26/500 epoch 26 average loss: 0.2138
+current epoch: 26 current liver dice: 0.8985 best mean dice: 0.9414  at epoch: 20
+epoch 27/500 epoch 27 average loss: 0.1989
+epoch 28/500 epoch 28 average loss: 0.1952
+current epoch: 28 current liver dice: 0.8964 best mean dice: 0.9414  at epoch: 20
+epoch 29/500 epoch 29 average loss: 0.1946
+epoch 30/500 epoch 30 average loss: 0.1807
+current epoch: 30 current liver dice: 0.8836 best mean dice: 0.9414  at epoch: 20
+epoch 31/500 epoch 31 average loss: 0.1698
+epoch 32/500 epoch 32 average loss: 0.1712
+current epoch: 32 current liver dice: 0.9241 best mean dice: 0.9414  at epoch: 20
+epoch 33/500 epoch 33 average loss: 0.1531
+epoch 34/500 epoch 34 average loss: 0.1495
+current epoch: 34 current liver dice: 0.9395 best mean dice: 0.9414  at epoch: 20
+epoch 35/500 epoch 35 average loss: 0.1621
+epoch 36/500 epoch 36 average loss: 0.1611
+saved new best metric model
+current epoch: 36 current liver dice: 0.9457 best mean dice: 0.9457  at epoch: 36
+epoch 37/500 epoch 37 average loss: 0.1692
+epoch 38/500 epoch 38 average loss: 0.1552
+saved new best metric model
+current epoch: 38 current liver dice: 0.9459 best mean dice: 0.9459  at epoch: 38
+epoch 39/500 epoch 39 average loss: 0.1485
+epoch 40/500 epoch 40 average loss: 0.1612
+current epoch: 40 current liver dice: 0.9401 best mean dice: 0.9459  at epoch: 38
+epoch 41/500 epoch 41 average loss: 0.1555
+epoch 42/500 epoch 42 average loss: 0.1401
+current epoch: 42 current liver dice: 0.9430 best mean dice: 0.9459  at epoch: 38
+epoch 43/500 epoch 43 average loss: 0.1344
+epoch 44/500 epoch 44 average loss: 0.1591
+current epoch: 44 current liver dice: 0.9427 best mean dice: 0.9459  at epoch: 38
+epoch 45/500 epoch 45 average loss: 0.1518
+epoch 46/500 epoch 46 average loss: 0.1344
+current epoch: 46 current liver dice: 0.9385 best mean dice: 0.9459  at epoch: 38
+epoch 47/500 epoch 47 average loss: 0.1466
+epoch 48/500 epoch 48 average loss: 0.1287
+saved new best metric model
+current epoch: 48 current liver dice: 0.9460 best mean dice: 0.9460  at epoch: 48
+epoch 49/500 epoch 49 average loss: 0.1400
+epoch 50/500 epoch 50 average loss: 0.1319
+saved new best metric model
+current epoch: 50 current liver dice: 0.9498 best mean dice: 0.9498  at epoch: 50
+epoch 51/500 epoch 51 average loss: 0.1198
+epoch 52/500 epoch 52 average loss: 0.1348
+current epoch: 52 current liver dice: 0.9367 best mean dice: 0.9498  at epoch: 50
+epoch 53/500 epoch 53 average loss: 0.1355
+epoch 54/500 epoch 54 average loss: 0.1217
+saved new best metric model
+current epoch: 54 current liver dice: 0.9536 best mean dice: 0.9536  at epoch: 54
+epoch 55/500 epoch 55 average loss: 0.1372
+epoch 56/500 epoch 56 average loss: 0.1178
+current epoch: 56 current liver dice: 0.9517 best mean dice: 0.9536  at epoch: 54
+epoch 57/500 epoch 57 average loss: 0.1295
+epoch 58/500 epoch 58 average loss: 0.1266
+current epoch: 58 current liver dice: 0.9511 best mean dice: 0.9536  at epoch: 54
+epoch 59/500 epoch 59 average loss: 0.1339
+epoch 60/500 epoch 60 average loss: 0.1203
+saved new best metric model
+current epoch: 60 current liver dice: 0.9564 best mean dice: 0.9564  at epoch: 60
+epoch 61/500 epoch 61 average loss: 0.1121
+epoch 62/500 epoch 62 average loss: 0.1179
+current epoch: 62 current liver dice: 0.9555 best mean dice: 0.9564  at epoch: 60
+epoch 63/500 epoch 63 average loss: 0.1208
+epoch 64/500 epoch 64 average loss: 0.1156
+current epoch: 64 current liver dice: 0.9535 best mean dice: 0.9564  at epoch: 60
+epoch 65/500 epoch 65 average loss: 0.1125
+epoch 66/500 epoch 66 average loss: 0.1069
+current epoch: 66 current liver dice: 0.9543 best mean dice: 0.9564  at epoch: 60
+epoch 67/500 epoch 67 average loss: 0.1044
+epoch 68/500 epoch 68 average loss: 0.1019
+current epoch: 68 current liver dice: 0.9538 best mean dice: 0.9564  at epoch: 60
+epoch 69/500 epoch 69 average loss: 0.1133
+epoch 70/500 epoch 70 average loss: 0.1038
+current epoch: 70 current liver dice: 0.9564 best mean dice: 0.9564  at epoch: 60
+epoch 71/500 epoch 71 average loss: 0.1207
+epoch 72/500 epoch 72 average loss: 0.1125
+saved new best metric model
+current epoch: 72 current liver dice: 0.9584 best mean dice: 0.9584  at epoch: 72
+epoch 73/500 epoch 73 average loss: 0.1083
+epoch 74/500 epoch 74 average loss: 0.1028
+current epoch: 74 current liver dice: 0.9548 best mean dice: 0.9584  at epoch: 72
+epoch 75/500 epoch 75 average loss: 0.1003
+epoch 76/500 epoch 76 average loss: 0.1024
+current epoch: 76 current liver dice: 0.9570 best mean dice: 0.9584  at epoch: 72
+epoch 77/500 epoch 77 average loss: 0.1076
+epoch 78/500 epoch 78 average loss: 0.1109
+current epoch: 78 current liver dice: 0.9579 best mean dice: 0.9584  at epoch: 72
+epoch 79/500 epoch 79 average loss: 0.1109
+epoch 80/500 epoch 80 average loss: 0.1146
+current epoch: 80 current liver dice: 0.9524 best mean dice: 0.9584  at epoch: 72
+epoch 81/500 epoch 81 average loss: 0.1180
+epoch 82/500 epoch 82 average loss: 0.1103
+current epoch: 82 current liver dice: 0.9540 best mean dice: 0.9584  at epoch: 72
+epoch 83/500 epoch 83 average loss: 0.1095
+epoch 84/500 epoch 84 average loss: 0.1075
+current epoch: 84 current liver dice: 0.9451 best mean dice: 0.9584  at epoch: 72
+epoch 85/500 epoch 85 average loss: 0.1317
+epoch 86/500 epoch 86 average loss: 0.1204
+current epoch: 86 current liver dice: 0.9571 best mean dice: 0.9584  at epoch: 72
+epoch 87/500 epoch 87 average loss: 0.1076
+epoch 88/500 epoch 88 average loss: 0.0984
+saved new best metric model
+current epoch: 88 current liver dice: 0.9607 best mean dice: 0.9607  at epoch: 88
+epoch 89/500 epoch 89 average loss: 0.1007
+epoch 90/500 epoch 90 average loss: 0.0977
+saved new best metric model
+current epoch: 90 current liver dice: 0.9611 best mean dice: 0.9611  at epoch: 90
+epoch 91/500 epoch 91 average loss: 0.1120
+epoch 92/500 epoch 92 average loss: 0.1042
+current epoch: 92 current liver dice: 0.9567 best mean dice: 0.9611  at epoch: 90
+epoch 93/500 epoch 93 average loss: 0.1034
+epoch 94/500 epoch 94 average loss: 0.1064
+current epoch: 94 current liver dice: 0.9522 best mean dice: 0.9611  at epoch: 90
+epoch 95/500 epoch 95 average loss: 0.1370
+epoch 96/500 epoch 96 average loss: 0.1645
+current epoch: 96 current liver dice: 0.9366 best mean dice: 0.9611  at epoch: 90
+epoch 97/500 epoch 97 average loss: 0.1912
+epoch 98/500 epoch 98 average loss: 0.1519
+current epoch: 98 current liver dice: 0.9468 best mean dice: 0.9611  at epoch: 90
+epoch 99/500 epoch 99 average loss: 0.1301
+epoch 100/500 epoch 100 average loss: 0.1459
+current epoch: 100 current liver dice: 0.9432 best mean dice: 0.9611  at epoch: 90
+epoch 101/500 epoch 101 average loss: 0.1252
+epoch 102/500 epoch 102 average loss: 0.1099
+current epoch: 102 current liver dice: 0.9596 best mean dice: 0.9611  at epoch: 90
+epoch 103/500 epoch 103 average loss: 0.1014
+epoch 104/500 epoch 104 average loss: 0.0980
+current epoch: 104 current liver dice: 0.9592 best mean dice: 0.9611  at epoch: 90
+epoch 105/500 epoch 105 average loss: 0.1025
+epoch 106/500 epoch 106 average loss: 0.0978
+current epoch: 106 current liver dice: 0.9511 best mean dice: 0.9611  at epoch: 90
+epoch 107/500 epoch 107 average loss: 0.1224
+epoch 108/500 epoch 108 average loss: 0.1119
+current epoch: 108 current liver dice: 0.9544 best mean dice: 0.9611  at epoch: 90
+epoch 109/500 epoch 109 average loss: 0.1081
+epoch 110/500 epoch 110 average loss: 0.1103
+current epoch: 110 current liver dice: 0.9574 best mean dice: 0.9611  at epoch: 90
+epoch 111/500 epoch 111 average loss: 0.1132
+epoch 112/500 epoch 112 average loss: 0.1186
+current epoch: 112 current liver dice: 0.9530 best mean dice: 0.9611  at epoch: 90
+epoch 113/500 epoch 113 average loss: 0.1063
+epoch 114/500 epoch 114 average loss: 0.0957
+current epoch: 114 current liver dice: 0.9607 best mean dice: 0.9611  at epoch: 90
+epoch 115/500 epoch 115 average loss: 0.0951
+epoch 116/500 epoch 116 average loss: 0.0977
+current epoch: 116 current liver dice: 0.9611 best mean dice: 0.9611  at epoch: 90
+epoch 117/500 epoch 117 average loss: 0.0948
+epoch 118/500 epoch 118 average loss: 0.0869
+saved new best metric model
+current epoch: 118 current liver dice: 0.9618 best mean dice: 0.9618  at epoch: 118
+epoch 119/500 epoch 119 average loss: 0.0920
+epoch 120/500 epoch 120 average loss: 0.0884
+current epoch: 120 current liver dice: 0.9610 best mean dice: 0.9618  at epoch: 118
+epoch 121/500 epoch 121 average loss: 0.0919
+epoch 122/500 epoch 122 average loss: 0.0917
+current epoch: 122 current liver dice: 0.9588 best mean dice: 0.9618  at epoch: 118
+epoch 123/500 epoch 123 average loss: 0.0901
+epoch 124/500 epoch 124 average loss: 0.0858
+current epoch: 124 current liver dice: 0.9607 best mean dice: 0.9618  at epoch: 118
+epoch 125/500 epoch 125 average loss: 0.0861
+epoch 126/500 epoch 126 average loss: 0.0882
+current epoch: 126 current liver dice: 0.9601 best mean dice: 0.9618  at epoch: 118
+epoch 127/500 epoch 127 average loss: 0.0843
+epoch 128/500 epoch 128 average loss: 0.0964
+current epoch: 128 current liver dice: 0.9614 best mean dice: 0.9618  at epoch: 118
+epoch 129/500 epoch 129 average loss: 0.0895
+epoch 130/500 epoch 130 average loss: 0.0904
+saved new best metric model
+current epoch: 130 current liver dice: 0.9634 best mean dice: 0.9634  at epoch: 130
+epoch 131/500 epoch 131 average loss: 0.0877
+epoch 132/500 epoch 132 average loss: 0.0871
+current epoch: 132 current liver dice: 0.9594 best mean dice: 0.9634  at epoch: 130
+epoch 133/500 epoch 133 average loss: 0.0885
+epoch 134/500 epoch 134 average loss: 0.0883
+saved new best metric model
+current epoch: 134 current liver dice: 0.9642 best mean dice: 0.9642  at epoch: 134
+epoch 135/500 epoch 135 average loss: 0.0820
+epoch 136/500 epoch 136 average loss: 0.0825
+current epoch: 136 current liver dice: 0.9631 best mean dice: 0.9642  at epoch: 134
+epoch 137/500 epoch 137 average loss: 0.0843
+epoch 138/500 epoch 138 average loss: 0.0813
+current epoch: 138 current liver dice: 0.9638 best mean dice: 0.9642  at epoch: 134
+epoch 139/500 epoch 139 average loss: 0.0774
+epoch 140/500 epoch 140 average loss: 0.0769
+saved new best metric model
+current epoch: 140 current liver dice: 0.9648 best mean dice: 0.9648  at epoch: 140
+epoch 141/500 epoch 141 average loss: 0.0792
+epoch 142/500 epoch 142 average loss: 0.0802
+current epoch: 142 current liver dice: 0.9635 best mean dice: 0.9648  at epoch: 140
+epoch 143/500 epoch 143 average loss: 0.0812
+epoch 144/500 epoch 144 average loss: 0.0826
+saved new best metric model
+current epoch: 144 current liver dice: 0.9649 best mean dice: 0.9649  at epoch: 144
+epoch 145/500 epoch 145 average loss: 0.0822
+epoch 146/500 epoch 146 average loss: 0.0849
+current epoch: 146 current liver dice: 0.9649 best mean dice: 0.9649  at epoch: 144
+epoch 147/500 epoch 147 average loss: 0.0942
+epoch 148/500 epoch 148 average loss: 0.0894
+current epoch: 148 current liver dice: 0.9364 best mean dice: 0.9649  at epoch: 144
+epoch 149/500 epoch 149 average loss: 0.0988
+epoch 150/500 epoch 150 average loss: 0.0840
+saved new best metric model
+current epoch: 150 current liver dice: 0.9654 best mean dice: 0.9654  at epoch: 150
+epoch 151/500 epoch 151 average loss: 0.0837
+epoch 152/500 epoch 152 average loss: 0.0811
+current epoch: 152 current liver dice: 0.9642 best mean dice: 0.9654  at epoch: 150
+epoch 153/500 epoch 153 average loss: 0.0835
+epoch 154/500 epoch 154 average loss: 0.0844
+current epoch: 154 current liver dice: 0.9632 best mean dice: 0.9654  at epoch: 150
+epoch 155/500 epoch 155 average loss: 0.0821
+epoch 156/500 epoch 156 average loss: 0.0833
+current epoch: 156 current liver dice: 0.9652 best mean dice: 0.9654  at epoch: 150
+epoch 157/500 epoch 157 average loss: 0.0841
+epoch 158/500 epoch 158 average loss: 0.0789
+current epoch: 158 current liver dice: 0.9650 best mean dice: 0.9654  at epoch: 150
+epoch 159/500 epoch 159 average loss: 0.0870
+epoch 160/500 epoch 160 average loss: 0.0890
+current epoch: 160 current liver dice: 0.9637 best mean dice: 0.9654  at epoch: 150
+epoch 161/500 epoch 161 average loss: 0.0849
+epoch 162/500 epoch 162 average loss: 0.0881
+current epoch: 162 current liver dice: 0.9430 best mean dice: 0.9654  at epoch: 150
+epoch 163/500 epoch 163 average loss: 0.1467
+epoch 164/500 epoch 164 average loss: 0.1190
+current epoch: 164 current liver dice: 0.9496 best mean dice: 0.9654  at epoch: 150
+epoch 165/500 epoch 165 average loss: 0.1081
+epoch 166/500 epoch 166 average loss: 0.0899
+current epoch: 166 current liver dice: 0.9597 best mean dice: 0.9654  at epoch: 150
+epoch 167/500 epoch 167 average loss: 0.0841
+epoch 168/500 epoch 168 average loss: 0.0912
+current epoch: 168 current liver dice: 0.9640 best mean dice: 0.9654  at epoch: 150
+epoch 169/500 epoch 169 average loss: 0.0886
+epoch 170/500 epoch 170 average loss: 0.0864
+current epoch: 170 current liver dice: 0.9644 best mean dice: 0.9654  at epoch: 150
+epoch 171/500 epoch 171 average loss: 0.0776
+epoch 172/500 epoch 172 average loss: 0.0857
+current epoch: 172 current liver dice: 0.9633 best mean dice: 0.9654  at epoch: 150
+epoch 173/500 epoch 173 average loss: 0.1565
+epoch 174/500 epoch 174 average loss: 0.2709
+current epoch: 174 current liver dice: 0.8926 best mean dice: 0.9654  at epoch: 150
+epoch 175/500 epoch 175 average loss: 0.1753
+epoch 176/500 epoch 176 average loss: 0.1475
+current epoch: 176 current liver dice: 0.9186 best mean dice: 0.9654  at epoch: 150
+epoch 177/500 epoch 177 average loss: 0.1762
+epoch 178/500 epoch 178 average loss: 0.1275
+current epoch: 178 current liver dice: 0.9100 best mean dice: 0.9654  at epoch: 150
+epoch 179/500 epoch 179 average loss: 0.1180
+epoch 180/500 epoch 180 average loss: 0.1054
+current epoch: 180 current liver dice: 0.9422 best mean dice: 0.9654  at epoch: 150
+epoch 181/500 epoch 181 average loss: 0.0968
+epoch 182/500 epoch 182 average loss: 0.0889
+current epoch: 182 current liver dice: 0.9590 best mean dice: 0.9654  at epoch: 150
+epoch 183/500 epoch 183 average loss: 0.0968
+epoch 184/500 epoch 184 average loss: 0.0894
+current epoch: 184 current liver dice: 0.9502 best mean dice: 0.9654  at epoch: 150
+epoch 185/500 epoch 185 average loss: 0.0972
+epoch 186/500 epoch 186 average loss: 0.0916
+current epoch: 186 current liver dice: 0.9606 best mean dice: 0.9654  at epoch: 150
+epoch 187/500 epoch 187 average loss: 0.0896
+epoch 188/500 epoch 188 average loss: 0.0830
+current epoch: 188 current liver dice: 0.9565 best mean dice: 0.9654  at epoch: 150
+epoch 189/500 epoch 189 average loss: 0.0810
+epoch 190/500 epoch 190 average loss: 0.0856
+current epoch: 190 current liver dice: 0.9625 best mean dice: 0.9654  at epoch: 150
+epoch 191/500 epoch 191 average loss: 0.0858
+epoch 192/500 epoch 192 average loss: 0.0815
+current epoch: 192 current liver dice: 0.9647 best mean dice: 0.9654  at epoch: 150
+epoch 193/500 epoch 193 average loss: 0.0803
+epoch 194/500 epoch 194 average loss: 0.0782
+current epoch: 194 current liver dice: 0.9609 best mean dice: 0.9654  at epoch: 150
+epoch 195/500 epoch 195 average loss: 0.0796
+epoch 196/500 epoch 196 average loss: 0.0778
+current epoch: 196 current liver dice: 0.9606 best mean dice: 0.9654  at epoch: 150
+epoch 197/500 epoch 197 average loss: 0.0791
+epoch 198/500 epoch 198 average loss: 0.0759
+current epoch: 198 current liver dice: 0.9654 best mean dice: 0.9654  at epoch: 150
+epoch 199/500 epoch 199 average loss: 0.0784
+epoch 200/500 epoch 200 average loss: 0.0733
+current epoch: 200 current liver dice: 0.9621 best mean dice: 0.9654  at epoch: 150
+epoch 201/500 epoch 201 average loss: 0.0798
+epoch 202/500 epoch 202 average loss: 0.0741
+current epoch: 202 current liver dice: 0.9617 best mean dice: 0.9654  at epoch: 150
+epoch 203/500 epoch 203 average loss: 0.0762
+epoch 204/500 epoch 204 average loss: 0.1458
+current epoch: 204 current liver dice: 0.8485 best mean dice: 0.9654  at epoch: 150
+epoch 205/500 epoch 205 average loss: 0.1822
+epoch 206/500 epoch 206 average loss: 0.2092
+current epoch: 206 current liver dice: 0.9318 best mean dice: 0.9654  at epoch: 150
+epoch 207/500 epoch 207 average loss: 0.1402
+epoch 208/500 epoch 208 average loss: 0.1130
+current epoch: 208 current liver dice: 0.9569 best mean dice: 0.9654  at epoch: 150
+epoch 209/500 epoch 209 average loss: 0.1004
+epoch 210/500 epoch 210 average loss: 0.0886
+current epoch: 210 current liver dice: 0.9605 best mean dice: 0.9654  at epoch: 150
+epoch 211/500 epoch 211 average loss: 0.0919
+epoch 212/500 epoch 212 average loss: 0.0945
+current epoch: 212 current liver dice: 0.9560 best mean dice: 0.9654  at epoch: 150
+epoch 213/500 epoch 213 average loss: 0.0873
+epoch 214/500 epoch 214 average loss: 0.0860
+current epoch: 214 current liver dice: 0.9640 best mean dice: 0.9654  at epoch: 150
+epoch 215/500 epoch 215 average loss: 0.0815
+epoch 216/500 epoch 216 average loss: 0.0816
+current epoch: 216 current liver dice: 0.9606 best mean dice: 0.9654  at epoch: 150
+epoch 217/500 epoch 217 average loss: 0.0777
+epoch 218/500 epoch 218 average loss: 0.0792
+current epoch: 218 current liver dice: 0.9644 best mean dice: 0.9654  at epoch: 150
+epoch 219/500 epoch 219 average loss: 0.0827
+epoch 220/500 epoch 220 average loss: 0.0756
+current epoch: 220 current liver dice: 0.9654 best mean dice: 0.9654  at epoch: 150
+epoch 221/500 epoch 221 average loss: 0.0763
+epoch 222/500 epoch 222 average loss: 0.0764
+saved new best metric model
+current epoch: 222 current liver dice: 0.9656 best mean dice: 0.9656  at epoch: 222
+epoch 223/500 epoch 223 average loss: 0.0736
+epoch 224/500 epoch 224 average loss: 0.0764
+current epoch: 224 current liver dice: 0.9639 best mean dice: 0.9656  at epoch: 222
+epoch 225/500 epoch 225 average loss: 0.0778
+epoch 226/500 epoch 226 average loss: 0.0780
+saved new best metric model
+current epoch: 226 current liver dice: 0.9660 best mean dice: 0.9660  at epoch: 226
+epoch 227/500 epoch 227 average loss: 0.0735
+epoch 228/500 epoch 228 average loss: 0.0733
+current epoch: 228 current liver dice: 0.9652 best mean dice: 0.9660  at epoch: 226
+epoch 229/500 epoch 229 average loss: 0.0815
+epoch 230/500 epoch 230 average loss: 0.0806
+current epoch: 230 current liver dice: 0.9641 best mean dice: 0.9660  at epoch: 226
+epoch 231/500 epoch 231 average loss: 0.0766
+epoch 232/500 epoch 232 average loss: 0.0717
+saved new best metric model
+current epoch: 232 current liver dice: 0.9678 best mean dice: 0.9678  at epoch: 232
+epoch 233/500 epoch 233 average loss: 0.0696
+epoch 234/500 epoch 234 average loss: 0.0735
+current epoch: 234 current liver dice: 0.9672 best mean dice: 0.9678  at epoch: 232
+epoch 235/500 epoch 235 average loss: 0.0757
+epoch 236/500 epoch 236 average loss: 0.0736
+current epoch: 236 current liver dice: 0.9667 best mean dice: 0.9678  at epoch: 232
+epoch 237/500 epoch 237 average loss: 0.0706
+epoch 238/500 epoch 238 average loss: 0.0775
+current epoch: 238 current liver dice: 0.9634 best mean dice: 0.9678  at epoch: 232
+epoch 239/500 epoch 239 average loss: 0.1008
+epoch 240/500 epoch 240 average loss: 0.0851
+current epoch: 240 current liver dice: 0.9641 best mean dice: 0.9678  at epoch: 232
+epoch 241/500 epoch 241 average loss: 0.0778
+epoch 242/500 epoch 242 average loss: 0.0888
+current epoch: 242 current liver dice: 0.9635 best mean dice: 0.9678  at epoch: 232
+epoch 243/500 epoch 243 average loss: 0.0813
+epoch 244/500 epoch 244 average loss: 0.0835
+current epoch: 244 current liver dice: 0.9637 best mean dice: 0.9678  at epoch: 232
+epoch 245/500 epoch 245 average loss: 0.0801
+epoch 246/500 epoch 246 average loss: 0.1066
+current epoch: 246 current liver dice: 0.9600 best mean dice: 0.9678  at epoch: 232
+epoch 247/500 epoch 247 average loss: 0.0830
+epoch 248/500 epoch 248 average loss: 0.0821
+current epoch: 248 current liver dice: 0.9549 best mean dice: 0.9678  at epoch: 232
+epoch 249/500 epoch 249 average loss: 0.0863
+epoch 250/500 epoch 250 average loss: 0.0945
+current epoch: 250 current liver dice: 0.9622 best mean dice: 0.9678  at epoch: 232
+epoch 251/500 epoch 251 average loss: 0.0827
+epoch 252/500 epoch 252 average loss: 0.0751
+current epoch: 252 current liver dice: 0.9661 best mean dice: 0.9678  at epoch: 232
+epoch 253/500 epoch 253 average loss: 0.0729
+epoch 254/500 epoch 254 average loss: 0.0718
+current epoch: 254 current liver dice: 0.9673 best mean dice: 0.9678  at epoch: 232
+epoch 255/500 epoch 255 average loss: 0.0770
+epoch 256/500 epoch 256 average loss: 0.0816
+current epoch: 256 current liver dice: 0.9659 best mean dice: 0.9678  at epoch: 232
+epoch 257/500 epoch 257 average loss: 0.0753
+epoch 258/500 epoch 258 average loss: 0.0744
+current epoch: 258 current liver dice: 0.9649 best mean dice: 0.9678  at epoch: 232
+epoch 259/500 epoch 259 average loss: 0.0752
+epoch 260/500 epoch 260 average loss: 0.0757
+current epoch: 260 current liver dice: 0.9673 best mean dice: 0.9678  at epoch: 232
+epoch 261/500 epoch 261 average loss: 0.0756
+epoch 262/500 epoch 262 average loss: 0.0714
+saved new best metric model
+current epoch: 262 current liver dice: 0.9679 best mean dice: 0.9679  at epoch: 262
+epoch 263/500 epoch 263 average loss: 0.0694
+epoch 264/500 epoch 264 average loss: 0.0702
+saved new best metric model
+current epoch: 264 current liver dice: 0.9693 best mean dice: 0.9693  at epoch: 264
+epoch 265/500 epoch 265 average loss: 0.0669
+epoch 266/500 epoch 266 average loss: 0.0695
+current epoch: 266 current liver dice: 0.9670 best mean dice: 0.9693  at epoch: 264
+epoch 267/500 epoch 267 average loss: 0.0703
+epoch 268/500 epoch 268 average loss: 0.0717
+current epoch: 268 current liver dice: 0.9684 best mean dice: 0.9693  at epoch: 264
+epoch 269/500 epoch 269 average loss: 0.0703
+epoch 270/500 epoch 270 average loss: 0.0671
+current epoch: 270 current liver dice: 0.9687 best mean dice: 0.9693  at epoch: 264
+epoch 271/500 epoch 271 average loss: 0.0656
+epoch 272/500 epoch 272 average loss: 0.0850
+current epoch: 272 current liver dice: 0.9540 best mean dice: 0.9693  at epoch: 264
+epoch 273/500 epoch 273 average loss: 0.0907
+epoch 274/500 epoch 274 average loss: 0.0805
+current epoch: 274 current liver dice: 0.9654 best mean dice: 0.9693  at epoch: 264
+epoch 275/500 epoch 275 average loss: 0.0840
+epoch 276/500 epoch 276 average loss: 0.0728
+current epoch: 276 current liver dice: 0.9517 best mean dice: 0.9693  at epoch: 264
+epoch 277/500 epoch 277 average loss: 0.0754
+epoch 278/500 epoch 278 average loss: 0.0683
+current epoch: 278 current liver dice: 0.9691 best mean dice: 0.9693  at epoch: 264
+epoch 279/500 epoch 279 average loss: 0.0714
+epoch 280/500 epoch 280 average loss: 0.0704
+saved new best metric model
+current epoch: 280 current liver dice: 0.9695 best mean dice: 0.9695  at epoch: 280
+epoch 281/500 epoch 281 average loss: 0.0728
+epoch 282/500 epoch 282 average loss: 0.0790
+current epoch: 282 current liver dice: 0.9656 best mean dice: 0.9695  at epoch: 280
+epoch 283/500 epoch 283 average loss: 0.0742
+epoch 284/500 epoch 284 average loss: 0.0721
+current epoch: 284 current liver dice: 0.9591 best mean dice: 0.9695  at epoch: 280
+epoch 285/500 epoch 285 average loss: 0.0754
+epoch 286/500 epoch 286 average loss: 0.0731
+current epoch: 286 current liver dice: 0.9681 best mean dice: 0.9695  at epoch: 280
+epoch 287/500 epoch 287 average loss: 0.0690
+epoch 288/500 epoch 288 average loss: 0.0715
+current epoch: 288 current liver dice: 0.9673 best mean dice: 0.9695  at epoch: 280
+epoch 289/500 epoch 289 average loss: 0.0715
+epoch 290/500 epoch 290 average loss: 0.0648
+saved new best metric model
+current epoch: 290 current liver dice: 0.9703 best mean dice: 0.9703  at epoch: 290
+epoch 291/500 epoch 291 average loss: 0.0656
+epoch 292/500 epoch 292 average loss: 0.0650
+current epoch: 292 current liver dice: 0.9656 best mean dice: 0.9703  at epoch: 290
+epoch 293/500 epoch 293 average loss: 0.0681
+epoch 294/500 epoch 294 average loss: 0.0667
+current epoch: 294 current liver dice: 0.9699 best mean dice: 0.9703  at epoch: 290
+epoch 295/500 epoch 295 average loss: 0.0682
+epoch 296/500 epoch 296 average loss: 0.0671
+current epoch: 296 current liver dice: 0.9699 best mean dice: 0.9703  at epoch: 290
+epoch 297/500 epoch 297 average loss: 0.0657
+epoch 298/500 epoch 298 average loss: 0.0755
+current epoch: 298 current liver dice: 0.9677 best mean dice: 0.9703  at epoch: 290
+epoch 299/500 epoch 299 average loss: 0.0753
+epoch 300/500 epoch 300 average loss: 0.0707
+current epoch: 300 current liver dice: 0.9667 best mean dice: 0.9703  at epoch: 290
+epoch 301/500 epoch 301 average loss: 0.0683
+epoch 302/500 epoch 302 average loss: 0.0670
+current epoch: 302 current liver dice: 0.9688 best mean dice: 0.9703  at epoch: 290
+epoch 303/500 epoch 303 average loss: 0.0678
+epoch 304/500 epoch 304 average loss: 0.0714
+current epoch: 304 current liver dice: 0.9669 best mean dice: 0.9703  at epoch: 290
+epoch 305/500 epoch 305 average loss: 0.0719
+epoch 306/500 epoch 306 average loss: 0.0708
+current epoch: 306 current liver dice: 0.9689 best mean dice: 0.9703  at epoch: 290
+epoch 307/500 epoch 307 average loss: 0.0692
+epoch 308/500 epoch 308 average loss: 0.0701
+saved new best metric model
+current epoch: 308 current liver dice: 0.9704 best mean dice: 0.9704  at epoch: 308
+epoch 309/500 epoch 309 average loss: 0.0676
+epoch 310/500 epoch 310 average loss: 0.0640
+saved new best metric model
+current epoch: 310 current liver dice: 0.9706 best mean dice: 0.9706  at epoch: 310
+epoch 311/500 epoch 311 average loss: 0.0649
+epoch 312/500 epoch 312 average loss: 0.0685
+current epoch: 312 current liver dice: 0.9684 best mean dice: 0.9706  at epoch: 310
+epoch 313/500 epoch 313 average loss: 0.0716
+epoch 314/500 epoch 314 average loss: 0.0680
+saved new best metric model
+current epoch: 314 current liver dice: 0.9709 best mean dice: 0.9709  at epoch: 314
+epoch 315/500 epoch 315 average loss: 0.0676
+epoch 316/500 epoch 316 average loss: 0.0657
+current epoch: 316 current liver dice: 0.9708 best mean dice: 0.9709  at epoch: 314
+epoch 317/500 epoch 317 average loss: 0.0666
+epoch 318/500 epoch 318 average loss: 0.0654
+current epoch: 318 current liver dice: 0.9691 best mean dice: 0.9709  at epoch: 314
+epoch 319/500 epoch 319 average loss: 0.0638
+epoch 320/500 epoch 320 average loss: 0.0647
+current epoch: 320 current liver dice: 0.9677 best mean dice: 0.9709  at epoch: 314
+epoch 321/500 epoch 321 average loss: 0.0694
+epoch 322/500 epoch 322 average loss: 0.0652
+saved new best metric model
+current epoch: 322 current liver dice: 0.9711 best mean dice: 0.9711  at epoch: 322
+epoch 323/500 epoch 323 average loss: 0.0602
+epoch 324/500 epoch 324 average loss: 0.0621
+current epoch: 324 current liver dice: 0.9669 best mean dice: 0.9711  at epoch: 322
+epoch 325/500 epoch 325 average loss: 0.0672
+epoch 326/500 epoch 326 average loss: 0.0793
+current epoch: 326 current liver dice: 0.9624 best mean dice: 0.9711  at epoch: 322
+epoch 327/500 epoch 327 average loss: 0.0695
+epoch 328/500 epoch 328 average loss: 0.0720
+current epoch: 328 current liver dice: 0.9681 best mean dice: 0.9711  at epoch: 322
+epoch 329/500 epoch 329 average loss: 0.0636
+epoch 330/500 epoch 330 average loss: 0.0669
+current epoch: 330 current liver dice: 0.9693 best mean dice: 0.9711  at epoch: 322
+epoch 331/500 epoch 331 average loss: 0.0696
+epoch 332/500 epoch 332 average loss: 0.0634
+current epoch: 332 current liver dice: 0.9699 best mean dice: 0.9711  at epoch: 322
+epoch 333/500 epoch 333 average loss: 0.0673
+epoch 334/500 epoch 334 average loss: 0.0701
+current epoch: 334 current liver dice: 0.9659 best mean dice: 0.9711  at epoch: 322
+epoch 335/500 epoch 335 average loss: 0.0674
+epoch 336/500 epoch 336 average loss: 0.0659
+current epoch: 336 current liver dice: 0.9702 best mean dice: 0.9711  at epoch: 322
+epoch 337/500 epoch 337 average loss: 0.0694
+epoch 338/500 epoch 338 average loss: 0.0762
+current epoch: 338 current liver dice: 0.9676 best mean dice: 0.9711  at epoch: 322
+epoch 339/500 epoch 339 average loss: 0.0934
+epoch 340/500 epoch 340 average loss: 0.0973
+current epoch: 340 current liver dice: 0.9444 best mean dice: 0.9711  at epoch: 322
+epoch 341/500 epoch 341 average loss: 0.1218
+epoch 342/500 epoch 342 average loss: 0.1007
+current epoch: 342 current liver dice: 0.9551 best mean dice: 0.9711  at epoch: 322
+epoch 343/500 epoch 343 average loss: 0.1045
+epoch 344/500 epoch 344 average loss: 0.0894
+current epoch: 344 current liver dice: 0.9562 best mean dice: 0.9711  at epoch: 322
+epoch 345/500 epoch 345 average loss: 0.0752
+epoch 346/500 epoch 346 average loss: 0.0768
+current epoch: 346 current liver dice: 0.9659 best mean dice: 0.9711  at epoch: 322
+epoch 347/500 epoch 347 average loss: 0.0830
+epoch 348/500 epoch 348 average loss: 0.0762
+current epoch: 348 current liver dice: 0.9548 best mean dice: 0.9711  at epoch: 322
+epoch 349/500 epoch 349 average loss: 0.0856
+epoch 350/500 epoch 350 average loss: 0.0702
+current epoch: 350 current liver dice: 0.9672 best mean dice: 0.9711  at epoch: 322
+epoch 351/500 epoch 351 average loss: 0.0725
+epoch 352/500 epoch 352 average loss: 0.0686
+current epoch: 352 current liver dice: 0.9704 best mean dice: 0.9711  at epoch: 322
+epoch 353/500 epoch 353 average loss: 0.0690
+epoch 354/500 epoch 354 average loss: 0.0647
+current epoch: 354 current liver dice: 0.9696 best mean dice: 0.9711  at epoch: 322
+epoch 355/500 epoch 355 average loss: 0.0637
+epoch 356/500 epoch 356 average loss: 0.0669
+current epoch: 356 current liver dice: 0.9687 best mean dice: 0.9711  at epoch: 322
+epoch 357/500 epoch 357 average loss: 0.0664
+epoch 358/500 epoch 358 average loss: 0.0638
+current epoch: 358 current liver dice: 0.9696 best mean dice: 0.9711  at epoch: 322
+epoch 359/500 epoch 359 average loss: 0.0663
+epoch 360/500 epoch 360 average loss: 0.0628
+current epoch: 360 current liver dice: 0.9699 best mean dice: 0.9711  at epoch: 322
+epoch 361/500 epoch 361 average loss: 0.0618
+epoch 362/500 epoch 362 average loss: 0.0681
+current epoch: 362 current liver dice: 0.9688 best mean dice: 0.9711  at epoch: 322
+epoch 363/500 epoch 363 average loss: 0.0639
+epoch 364/500 epoch 364 average loss: 0.0649
+current epoch: 364 current liver dice: 0.9699 best mean dice: 0.9711  at epoch: 322
+epoch 365/500 epoch 365 average loss: 0.0698
+epoch 366/500 epoch 366 average loss: 0.0682
+current epoch: 366 current liver dice: 0.9684 best mean dice: 0.9711  at epoch: 322
+epoch 367/500 epoch 367 average loss: 0.0680
+epoch 368/500 epoch 368 average loss: 0.0715
+current epoch: 368 current liver dice: 0.9687 best mean dice: 0.9711  at epoch: 322
+epoch 369/500 epoch 369 average loss: 0.0759
+epoch 370/500 epoch 370 average loss: 0.1574
+current epoch: 370 current liver dice: 0.8328 best mean dice: 0.9711  at epoch: 322
+epoch 371/500 epoch 371 average loss: 0.3226
+epoch 372/500 epoch 372 average loss: 0.2105
+current epoch: 372 current liver dice: 0.9341 best mean dice: 0.9711  at epoch: 322
+epoch 373/500 epoch 373 average loss: 0.1368
+epoch 374/500 epoch 374 average loss: 0.1158
+current epoch: 374 current liver dice: 0.9602 best mean dice: 0.9711  at epoch: 322
+epoch 375/500 epoch 375 average loss: 0.1051
+epoch 376/500 epoch 376 average loss: 0.0868
+current epoch: 376 current liver dice: 0.9626 best mean dice: 0.9711  at epoch: 322
+epoch 377/500 epoch 377 average loss: 0.0865
+epoch 378/500 epoch 378 average loss: 0.0833
+current epoch: 378 current liver dice: 0.9628 best mean dice: 0.9711  at epoch: 322
+epoch 379/500 epoch 379 average loss: 0.0852
+epoch 380/500 epoch 380 average loss: 0.0777
+current epoch: 380 current liver dice: 0.9653 best mean dice: 0.9711  at epoch: 322
+epoch 381/500 epoch 381 average loss: 0.0729
+epoch 382/500 epoch 382 average loss: 0.0764
+current epoch: 382 current liver dice: 0.9646 best mean dice: 0.9711  at epoch: 322
+epoch 383/500 epoch 383 average loss: 0.0781
+epoch 384/500 epoch 384 average loss: 0.0747
+current epoch: 384 current liver dice: 0.9679 best mean dice: 0.9711  at epoch: 322
+epoch 385/500 epoch 385 average loss: 0.0822
+epoch 386/500 epoch 386 average loss: 0.0728
+current epoch: 386 current liver dice: 0.9675 best mean dice: 0.9711  at epoch: 322
+epoch 387/500 epoch 387 average loss: 0.0766
+epoch 388/500 epoch 388 average loss: 0.0811
+current epoch: 388 current liver dice: 0.9630 best mean dice: 0.9711  at epoch: 322
+epoch 389/500 epoch 389 average loss: 0.0816
+epoch 390/500 epoch 390 average loss: 0.0731
+current epoch: 390 current liver dice: 0.9682 best mean dice: 0.9711  at epoch: 322
+epoch 391/500 epoch 391 average loss: 0.0916
+epoch 392/500 epoch 392 average loss: 0.0786
+current epoch: 392 current liver dice: 0.9668 best mean dice: 0.9711  at epoch: 322
+epoch 393/500 epoch 393 average loss: 0.0720
+epoch 394/500 epoch 394 average loss: 0.0680
+current epoch: 394 current liver dice: 0.9649 best mean dice: 0.9711  at epoch: 322
+epoch 395/500 epoch 395 average loss: 0.0662
+epoch 396/500 epoch 396 average loss: 0.0687
+current epoch: 396 current liver dice: 0.9667 best mean dice: 0.9711  at epoch: 322
+epoch 397/500 epoch 397 average loss: 0.0688
+epoch 398/500 epoch 398 average loss: 0.0642
+current epoch: 398 current liver dice: 0.9683 best mean dice: 0.9711  at epoch: 322
+epoch 399/500 epoch 399 average loss: 0.0642
+epoch 400/500 epoch 400 average loss: 0.0656
+current epoch: 400 current liver dice: 0.9692 best mean dice: 0.9711  at epoch: 322
+epoch 401/500 epoch 401 average loss: 0.0685
+epoch 402/500 epoch 402 average loss: 0.0676
+current epoch: 402 current liver dice: 0.9682 best mean dice: 0.9711  at epoch: 322
+epoch 403/500 epoch 403 average loss: 0.0633
+epoch 404/500 epoch 404 average loss: 0.0644
+current epoch: 404 current liver dice: 0.9641 best mean dice: 0.9711  at epoch: 322
+epoch 405/500 epoch 405 average loss: 0.0626
+epoch 406/500 epoch 406 average loss: 0.0631
+current epoch: 406 current liver dice: 0.9686 best mean dice: 0.9711  at epoch: 322
+epoch 407/500 epoch 407 average loss: 0.0692
+epoch 408/500 epoch 408 average loss: 0.0653
+current epoch: 408 current liver dice: 0.9669 best mean dice: 0.9711  at epoch: 322
+epoch 409/500 epoch 409 average loss: 0.0652
+epoch 410/500 epoch 410 average loss: 0.0655
+current epoch: 410 current liver dice: 0.9693 best mean dice: 0.9711  at epoch: 322
+epoch 411/500 epoch 411 average loss: 0.0617
+epoch 412/500 epoch 412 average loss: 0.0584
+current epoch: 412 current liver dice: 0.9687 best mean dice: 0.9711  at epoch: 322
+epoch 413/500 epoch 413 average loss: 0.0617
+epoch 414/500 epoch 414 average loss: 0.0675
+current epoch: 414 current liver dice: 0.9622 best mean dice: 0.9711  at epoch: 322
+epoch 415/500 epoch 415 average loss: 0.0685
+epoch 416/500 epoch 416 average loss: 0.0624
+current epoch: 416 current liver dice: 0.9684 best mean dice: 0.9711  at epoch: 322
+epoch 417/500 epoch 417 average loss: 0.0631
+epoch 418/500 epoch 418 average loss: 0.0630
+current epoch: 418 current liver dice: 0.9689 best mean dice: 0.9711  at epoch: 322
+epoch 419/500 epoch 419 average loss: 0.0660
+epoch 420/500 epoch 420 average loss: 0.0622
+current epoch: 420 current liver dice: 0.9690 best mean dice: 0.9711  at epoch: 322
+epoch 421/500 epoch 421 average loss: 0.0646
+epoch 422/500 epoch 422 average loss: 0.0626
+current epoch: 422 current liver dice: 0.9690 best mean dice: 0.9711  at epoch: 322
+epoch 423/500 epoch 423 average loss: 0.0583
+epoch 424/500 epoch 424 average loss: 0.0638
+current epoch: 424 current liver dice: 0.9695 best mean dice: 0.9711  at epoch: 322
+epoch 425/500 epoch 425 average loss: 0.0628
+epoch 426/500 epoch 426 average loss: 0.0656
+current epoch: 426 current liver dice: 0.9701 best mean dice: 0.9711  at epoch: 322
+epoch 427/500 epoch 427 average loss: 0.0571
+epoch 428/500 epoch 428 average loss: 0.0604
+saved new best metric model
+current epoch: 428 current liver dice: 0.9711 best mean dice: 0.9711  at epoch: 428
+epoch 429/500 epoch 429 average loss: 0.0588
+epoch 430/500 epoch 430 average loss: 0.0589
+current epoch: 430 current liver dice: 0.9678 best mean dice: 0.9711  at epoch: 428
+epoch 431/500 epoch 431 average loss: 0.0554
+epoch 432/500 epoch 432 average loss: 0.0595
+current epoch: 432 current liver dice: 0.9683 best mean dice: 0.9711  at epoch: 428
+epoch 433/500 epoch 433 average loss: 0.0614
+epoch 434/500 epoch 434 average loss: 0.0626
+current epoch: 434 current liver dice: 0.9671 best mean dice: 0.9711  at epoch: 428
+epoch 435/500 epoch 435 average loss: 0.0562
+epoch 436/500 epoch 436 average loss: 0.0594
+current epoch: 436 current liver dice: 0.9646 best mean dice: 0.9711  at epoch: 428
+epoch 437/500 epoch 437 average loss: 0.0564
+epoch 438/500 epoch 438 average loss: 0.0580
+current epoch: 438 current liver dice: 0.9684 best mean dice: 0.9711  at epoch: 428
+epoch 439/500 epoch 439 average loss: 0.0570
+epoch 440/500 epoch 440 average loss: 0.0585
+current epoch: 440 current liver dice: 0.9676 best mean dice: 0.9711  at epoch: 428
+epoch 441/500 epoch 441 average loss: 0.0574
+epoch 442/500 epoch 442 average loss: 0.0597
+current epoch: 442 current liver dice: 0.9680 best mean dice: 0.9711  at epoch: 428
+epoch 443/500 epoch 443 average loss: 0.0621
+epoch 444/500 epoch 444 average loss: 0.0608
+current epoch: 444 current liver dice: 0.9694 best mean dice: 0.9711  at epoch: 428
+epoch 445/500 epoch 445 average loss: 0.0618
+epoch 446/500 epoch 446 average loss: 0.0597
+current epoch: 446 current liver dice: 0.9701 best mean dice: 0.9711  at epoch: 428
+epoch 447/500 epoch 447 average loss: 0.0604
+epoch 448/500 epoch 448 average loss: 0.0643
+current epoch: 448 current liver dice: 0.9628 best mean dice: 0.9711  at epoch: 428
+epoch 449/500 epoch 449 average loss: 0.0629
+epoch 450/500 epoch 450 average loss: 0.0651
+current epoch: 450 current liver dice: 0.9700 best mean dice: 0.9711  at epoch: 428
+epoch 451/500 epoch 451 average loss: 0.0649
+epoch 452/500 epoch 452 average loss: 0.0580
+current epoch: 452 current liver dice: 0.9678 best mean dice: 0.9711  at epoch: 428
+epoch 453/500 epoch 453 average loss: 0.0606
+epoch 454/500 epoch 454 average loss: 0.0667
+current epoch: 454 current liver dice: 0.9657 best mean dice: 0.9711  at epoch: 428
+epoch 455/500 epoch 455 average loss: 0.0631
+epoch 456/500 epoch 456 average loss: 0.0631
+current epoch: 456 current liver dice: 0.9677 best mean dice: 0.9711  at epoch: 428
+epoch 457/500 epoch 457 average loss: 0.0597
+epoch 458/500 epoch 458 average loss: 0.0615
+current epoch: 458 current liver dice: 0.9607 best mean dice: 0.9711  at epoch: 428
+epoch 459/500 epoch 459 average loss: 0.0613
+epoch 460/500 epoch 460 average loss: 0.0601
+current epoch: 460 current liver dice: 0.9639 best mean dice: 0.9711  at epoch: 428
+epoch 461/500 epoch 461 average loss: 0.0657
+epoch 462/500 epoch 462 average loss: 0.0668
+current epoch: 462 current liver dice: 0.9643 best mean dice: 0.9711  at epoch: 428
+epoch 463/500 epoch 463 average loss: 0.0670
+epoch 464/500 epoch 464 average loss: 0.0621
+current epoch: 464 current liver dice: 0.9685 best mean dice: 0.9711  at epoch: 428
+epoch 465/500 epoch 465 average loss: 0.0597
+epoch 466/500 epoch 466 average loss: 0.0631
+current epoch: 466 current liver dice: 0.9674 best mean dice: 0.9711  at epoch: 428
+epoch 467/500 epoch 467 average loss: 0.0621
+epoch 468/500 epoch 468 average loss: 0.0695
+current epoch: 468 current liver dice: 0.9696 best mean dice: 0.9711  at epoch: 428
+epoch 469/500 epoch 469 average loss: 0.0758
+epoch 470/500 epoch 470 average loss: 0.1033
+current epoch: 470 current liver dice: 0.8941 best mean dice: 0.9711  at epoch: 428
+epoch 471/500 epoch 471 average loss: 0.1294
+epoch 472/500 epoch 472 average loss: 0.1139
+current epoch: 472 current liver dice: 0.9510 best mean dice: 0.9711  at epoch: 428
+epoch 473/500 epoch 473 average loss: 0.0847
+epoch 474/500 epoch 474 average loss: 0.0751
+current epoch: 474 current liver dice: 0.9692 best mean dice: 0.9711  at epoch: 428
+epoch 475/500 epoch 475 average loss: 0.0700
+epoch 476/500 epoch 476 average loss: 0.0704
+current epoch: 476 current liver dice: 0.9669 best mean dice: 0.9711  at epoch: 428
+epoch 477/500 epoch 477 average loss: 0.0668
+epoch 478/500 epoch 478 average loss: 0.0636
+current epoch: 478 current liver dice: 0.9674 best mean dice: 0.9711  at epoch: 428
+epoch 479/500 epoch 479 average loss: 0.0718
+epoch 480/500 epoch 480 average loss: 0.0766
+current epoch: 480 current liver dice: 0.9661 best mean dice: 0.9711  at epoch: 428
+epoch 481/500 epoch 481 average loss: 0.0653
+epoch 482/500 epoch 482 average loss: 0.0662
+current epoch: 482 current liver dice: 0.9683 best mean dice: 0.9711  at epoch: 428
+epoch 483/500 epoch 483 average loss: 0.0607
+epoch 484/500 epoch 484 average loss: 0.0620
+current epoch: 484 current liver dice: 0.9662 best mean dice: 0.9711  at epoch: 428
+epoch 485/500 epoch 485 average loss: 0.0629
+epoch 486/500 epoch 486 average loss: 0.0629
+current epoch: 486 current liver dice: 0.9691 best mean dice: 0.9711  at epoch: 428
+epoch 487/500 epoch 487 average loss: 0.0574
+epoch 488/500 epoch 488 average loss: 0.0587
+current epoch: 488 current liver dice: 0.9701 best mean dice: 0.9711  at epoch: 428
+epoch 489/500 epoch 489 average loss: 0.0591
+epoch 490/500 epoch 490 average loss: 0.0577
+current epoch: 490 current liver dice: 0.9665 best mean dice: 0.9711  at epoch: 428
+epoch 491/500 epoch 491 average loss: 0.0578
+epoch 492/500 epoch 492 average loss: 0.0562
+current epoch: 492 current liver dice: 0.9693 best mean dice: 0.9711  at epoch: 428
+epoch 493/500 epoch 493 average loss: 0.0547
+epoch 494/500 epoch 494 average loss: 0.0588
+current epoch: 494 current liver dice: 0.9676 best mean dice: 0.9711  at epoch: 428
+epoch 495/500 epoch 495 average loss: 0.0550
+epoch 496/500 epoch 496 average loss: 0.0606
+current epoch: 496 current liver dice: 0.9659 best mean dice: 0.9711  at epoch: 428
+epoch 497/500 epoch 497 average loss: 0.0614
+epoch 498/500 epoch 498 average loss: 0.0639
+current epoch: 498 current liver dice: 0.9655 best mean dice: 0.9711  at epoch: 428
+epoch 499/500 epoch 499 average loss: 0.0638
+epoch 500/500 epoch 500 average loss: 0.0632
+current epoch: 500 current liver dice: 0.9640 best mean dice: 0.9711  at epoch: 428
+87 22
+Loading dataset:   0%|          | 0/87 [00:00<?, ?it/s]Loading dataset:   1%|          | 1/87 [00:07<11:02,  7.70s/it]Loading dataset:   2%|▏         | 2/87 [02:26<2:00:05, 84.77s/it]Loading dataset: 100%|██████████| 87/87 [02:26<00:00,  1.68s/it] 
+Loading dataset:   0%|          | 0/22 [00:00<?, ?it/s]Loading dataset:   5%|▍         | 1/22 [00:23<08:12, 23.45s/it]Loading dataset:  36%|███▋      | 8/22 [00:39<00:59,  4.25s/it]Loading dataset:  45%|████▌     | 10/22 [00:41<00:40,  3.38s/it]Loading dataset:  64%|██████▎   | 14/22 [00:42<00:16,  2.01s/it]Loading dataset:  77%|███████▋  | 17/22 [00:47<00:09,  1.85s/it]Loading dataset:  82%|████████▏ | 18/22 [01:10<00:18,  4.65s/it]Loading dataset: 100%|██████████| 22/22 [01:10<00:00,  3.20s/it]87 22
+epoch 1/500 
+epoch 1 average loss: 0.8664
+epoch 2/500 epoch 2 average loss: 0.5942
+saved new best metric model
+current epoch: 2 current liver dice: 0.6935 best mean dice: 0.6935  at epoch: 2
+epoch 3/500 epoch 3 average loss: 0.5112
+epoch 4/500 epoch 4 average loss: 0.4498
+saved new best metric model
+current epoch: 4 current liver dice: 0.9023 best mean dice: 0.9023  at epoch: 4
+epoch 5/500 epoch 5 average loss: 0.4256
+epoch 6/500 epoch 6 average loss: 0.2928
+saved new best metric model
+current epoch: 6 current liver dice: 0.9067 best mean dice: 0.9067  at epoch: 6
+epoch 7/500 epoch 7 average loss: 0.2999
+epoch 8/500 epoch 8 average loss: 0.2364
+current epoch: 8 current liver dice: 0.8672 best mean dice: 0.9067  at epoch: 6
+epoch 9/500 epoch 9 average loss: 0.2095
+epoch 10/500 epoch 10 average loss: 0.1794
+saved new best metric model
+current epoch: 10 current liver dice: 0.9363 best mean dice: 0.9363  at epoch: 10
+epoch 11/500 epoch 11 average loss: 0.2024
+epoch 12/500 epoch 12 average loss: 0.1696
+current epoch: 12 current liver dice: 0.9081 best mean dice: 0.9363  at epoch: 10
+epoch 13/500 epoch 13 average loss: 0.1682
+epoch 14/500 epoch 14 average loss: 0.1744
+current epoch: 14 current liver dice: 0.8798 best mean dice: 0.9363  at epoch: 10
+epoch 15/500 epoch 15 average loss: 0.1725
+epoch 16/500 epoch 16 average loss: 0.1356
+current epoch: 16 current liver dice: 0.9173 best mean dice: 0.9363  at epoch: 10
+epoch 17/500 epoch 17 average loss: 0.1349
+epoch 18/500 epoch 18 average loss: 0.1360
+saved new best metric model
+current epoch: 18 current liver dice: 0.9556 best mean dice: 0.9556  at epoch: 18
+epoch 19/500 epoch 19 average loss: 0.1262
+epoch 20/500 epoch 20 average loss: 0.1160
+saved new best metric model
+current epoch: 20 current liver dice: 0.9565 best mean dice: 0.9565  at epoch: 20
+epoch 21/500 epoch 21 average loss: 0.1336
+epoch 22/500 epoch 22 average loss: 0.1425
+current epoch: 22 current liver dice: 0.9548 best mean dice: 0.9565  at epoch: 20
+epoch 23/500 epoch 23 average loss: 0.1141
+epoch 24/500 epoch 24 average loss: 0.1042
+saved new best metric model
+current epoch: 24 current liver dice: 0.9644 best mean dice: 0.9644  at epoch: 24
+epoch 25/500 epoch 25 average loss: 0.1425
+epoch 26/500 epoch 26 average loss: 0.1447
+current epoch: 26 current liver dice: 0.9543 best mean dice: 0.9644  at epoch: 24
+epoch 27/500 epoch 27 average loss: 0.1266
+epoch 28/500 epoch 28 average loss: 0.1069
+current epoch: 28 current liver dice: 0.9609 best mean dice: 0.9644  at epoch: 24
+epoch 29/500 epoch 29 average loss: 0.0980
+epoch 30/500 epoch 30 average loss: 0.1047
+current epoch: 30 current liver dice: 0.9641 best mean dice: 0.9644  at epoch: 24
+epoch 31/500 epoch 31 average loss: 0.0882
+epoch 32/500 epoch 32 average loss: 0.1018
+current epoch: 32 current liver dice: 0.9365 best mean dice: 0.9644  at epoch: 24
+epoch 33/500 epoch 33 average loss: 0.1279
+epoch 34/500 epoch 34 average loss: 0.1378
+current epoch: 34 current liver dice: 0.9589 best mean dice: 0.9644  at epoch: 24
+epoch 35/500 epoch 35 average loss: 0.1139
+epoch 36/500 epoch 36 average loss: 0.1049
+current epoch: 36 current liver dice: 0.9480 best mean dice: 0.9644  at epoch: 24
+epoch 37/500 epoch 37 average loss: 0.0938
+epoch 38/500 epoch 38 average loss: 0.0880
+current epoch: 38 current liver dice: 0.9618 best mean dice: 0.9644  at epoch: 24
+epoch 39/500 epoch 39 average loss: 0.0895
+epoch 40/500 epoch 40 average loss: 0.0984
+saved new best metric model
+current epoch: 40 current liver dice: 0.9663 best mean dice: 0.9663  at epoch: 40
+epoch 41/500 epoch 41 average loss: 0.1363
+epoch 42/500 epoch 42 average loss: 0.0997
+current epoch: 42 current liver dice: 0.9587 best mean dice: 0.9663  at epoch: 40
+epoch 43/500 epoch 43 average loss: 0.0832
+epoch 44/500 epoch 44 average loss: 0.0919
+current epoch: 44 current liver dice: 0.9580 best mean dice: 0.9663  at epoch: 40
+epoch 45/500 epoch 45 average loss: 0.0849
+epoch 46/500 epoch 46 average loss: 0.1121
+current epoch: 46 current liver dice: 0.9508 best mean dice: 0.9663  at epoch: 40
+epoch 47/500 epoch 47 average loss: 0.0958
+epoch 48/500 epoch 48 average loss: 0.0893
+current epoch: 48 current liver dice: 0.9601 best mean dice: 0.9663  at epoch: 40
+epoch 49/500 epoch 49 average loss: 0.0803
+epoch 50/500 epoch 50 average loss: 0.0803
+current epoch: 50 current liver dice: 0.9589 best mean dice: 0.9663  at epoch: 40
+epoch 51/500 epoch 51 average loss: 0.0899
+epoch 52/500 epoch 52 average loss: 0.0972
+current epoch: 52 current liver dice: 0.9658 best mean dice: 0.9663  at epoch: 40
+epoch 53/500 epoch 53 average loss: 0.0773
+epoch 54/500 epoch 54 average loss: 0.0772
+current epoch: 54 current liver dice: 0.9569 best mean dice: 0.9663  at epoch: 40
+epoch 55/500 epoch 55 average loss: 0.0732
+epoch 56/500 epoch 56 average loss: 0.0708
+current epoch: 56 current liver dice: 0.9561 best mean dice: 0.9663  at epoch: 40
+epoch 57/500 epoch 57 average loss: 0.0714
+epoch 58/500 epoch 58 average loss: 0.0738
+saved new best metric model
+current epoch: 58 current liver dice: 0.9733 best mean dice: 0.9733  at epoch: 58
+epoch 59/500 epoch 59 average loss: 0.0715
+epoch 60/500 epoch 60 average loss: 0.0919
+current epoch: 60 current liver dice: 0.9250 best mean dice: 0.9733  at epoch: 58
+epoch 61/500 epoch 61 average loss: 0.0963
+epoch 62/500 epoch 62 average loss: 0.0793
+current epoch: 62 current liver dice: 0.9520 best mean dice: 0.9733  at epoch: 58
+epoch 63/500 epoch 63 average loss: 0.0795
+epoch 64/500 epoch 64 average loss: 0.1060
+current epoch: 64 current liver dice: 0.9529 best mean dice: 0.9733  at epoch: 58
+epoch 65/500 epoch 65 average loss: 0.0797
+epoch 66/500 epoch 66 average loss: 0.0743
+current epoch: 66 current liver dice: 0.9612 best mean dice: 0.9733  at epoch: 58
+epoch 67/500 epoch 67 average loss: 0.0716
+epoch 68/500 epoch 68 average loss: 0.1514
+current epoch: 68 current liver dice: 0.9243 best mean dice: 0.9733  at epoch: 58
+epoch 69/500 epoch 69 average loss: 0.1718
+epoch 70/500 epoch 70 average loss: 0.1137
+current epoch: 70 current liver dice: 0.9688 best mean dice: 0.9733  at epoch: 58
+epoch 71/500 epoch 71 average loss: 0.0902
+epoch 72/500 epoch 72 average loss: 0.0805
+current epoch: 72 current liver dice: 0.9596 best mean dice: 0.9733  at epoch: 58
+epoch 73/500 epoch 73 average loss: 0.0921
+epoch 74/500 epoch 74 average loss: 0.0815
+current epoch: 74 current liver dice: 0.9637 best mean dice: 0.9733  at epoch: 58
+epoch 75/500 epoch 75 average loss: 0.0737
+epoch 76/500 epoch 76 average loss: 0.0738
+current epoch: 76 current liver dice: 0.9481 best mean dice: 0.9733  at epoch: 58
+epoch 77/500 epoch 77 average loss: 0.0763
+epoch 78/500 epoch 78 average loss: 0.0685
+current epoch: 78 current liver dice: 0.9633 best mean dice: 0.9733  at epoch: 58
+epoch 79/500 epoch 79 average loss: 0.0731
+epoch 80/500 epoch 80 average loss: 0.0677
+current epoch: 80 current liver dice: 0.9627 best mean dice: 0.9733  at epoch: 58
+epoch 81/500 epoch 81 average loss: 0.0703
+epoch 82/500 epoch 82 average loss: 0.0741
+current epoch: 82 current liver dice: 0.9729 best mean dice: 0.9733  at epoch: 58
+epoch 83/500 epoch 83 average loss: 0.0700
+epoch 84/500 epoch 84 average loss: 0.0643
+current epoch: 84 current liver dice: 0.9696 best mean dice: 0.9733  at epoch: 58
+epoch 85/500 epoch 85 average loss: 0.0641
+epoch 86/500 epoch 86 average loss: 0.0614
+saved new best metric model
+current epoch: 86 current liver dice: 0.9759 best mean dice: 0.9759  at epoch: 86
+epoch 87/500 epoch 87 average loss: 0.0665
+epoch 88/500 epoch 88 average loss: 0.0632
+current epoch: 88 current liver dice: 0.9676 best mean dice: 0.9759  at epoch: 86
+epoch 89/500 epoch 89 average loss: 0.0633
+epoch 90/500 epoch 90 average loss: 0.0671
+current epoch: 90 current liver dice: 0.9670 best mean dice: 0.9759  at epoch: 86
+epoch 91/500 epoch 91 average loss: 0.0650
+epoch 92/500 epoch 92 average loss: 0.0641
+current epoch: 92 current liver dice: 0.9602 best mean dice: 0.9759  at epoch: 86
+epoch 93/500 epoch 93 average loss: 0.0669
+epoch 94/500 epoch 94 average loss: 0.0646
+current epoch: 94 current liver dice: 0.9548 best mean dice: 0.9759  at epoch: 86
+epoch 95/500 epoch 95 average loss: 0.0725
+epoch 96/500 epoch 96 average loss: 0.0627
+current epoch: 96 current liver dice: 0.9553 best mean dice: 0.9759  at epoch: 86
+epoch 97/500 epoch 97 average loss: 0.0877
+epoch 98/500 epoch 98 average loss: 0.1000
+current epoch: 98 current liver dice: 0.9563 best mean dice: 0.9759  at epoch: 86
+epoch 99/500 epoch 99 average loss: 0.0727
+epoch 100/500 epoch 100 average loss: 0.0682
+current epoch: 100 current liver dice: 0.9627 best mean dice: 0.9759  at epoch: 86
+epoch 101/500 epoch 101 average loss: 0.0865
+epoch 102/500 epoch 102 average loss: 0.1162
+current epoch: 102 current liver dice: 0.9548 best mean dice: 0.9759  at epoch: 86
+epoch 103/500 epoch 103 average loss: 0.1118
+epoch 104/500 epoch 104 average loss: 0.0972
+current epoch: 104 current liver dice: 0.9585 best mean dice: 0.9759  at epoch: 86
+epoch 105/500 epoch 105 average loss: 0.0748
+epoch 106/500 epoch 106 average loss: 0.0727
+current epoch: 106 current liver dice: 0.9676 best mean dice: 0.9759  at epoch: 86
+epoch 107/500 epoch 107 average loss: 0.0629
+epoch 108/500 epoch 108 average loss: 0.0646
+current epoch: 108 current liver dice: 0.9722 best mean dice: 0.9759  at epoch: 86
+epoch 109/500 epoch 109 average loss: 0.0573
+epoch 110/500 epoch 110 average loss: 0.0585
+current epoch: 110 current liver dice: 0.9673 best mean dice: 0.9759  at epoch: 86
+epoch 111/500 epoch 111 average loss: 0.0647
+epoch 112/500 epoch 112 average loss: 0.0691
+current epoch: 112 current liver dice: 0.9712 best mean dice: 0.9759  at epoch: 86
+epoch 113/500 epoch 113 average loss: 0.0758
+epoch 114/500 epoch 114 average loss: 0.1595
+current epoch: 114 current liver dice: 0.9231 best mean dice: 0.9759  at epoch: 86
+epoch 115/500 epoch 115 average loss: 0.1125
+epoch 116/500 epoch 116 average loss: 0.0713
+current epoch: 116 current liver dice: 0.9708 best mean dice: 0.9759  at epoch: 86
+epoch 117/500 epoch 117 average loss: 0.0690
+epoch 118/500 epoch 118 average loss: 0.0736
+current epoch: 118 current liver dice: 0.9743 best mean dice: 0.9759  at epoch: 86
+epoch 119/500 epoch 119 average loss: 0.0601
+epoch 120/500 epoch 120 average loss: 0.0606
+current epoch: 120 current liver dice: 0.9638 best mean dice: 0.9759  at epoch: 86
+epoch 121/500 epoch 121 average loss: 0.0611
+epoch 122/500 epoch 122 average loss: 0.0733
+current epoch: 122 current liver dice: 0.9727 best mean dice: 0.9759  at epoch: 86
+epoch 123/500 epoch 123 average loss: 0.0742
+epoch 124/500 epoch 124 average loss: 0.0632
+current epoch: 124 current liver dice: 0.9701 best mean dice: 0.9759  at epoch: 86
+epoch 125/500 epoch 125 average loss: 0.0638
+epoch 126/500 epoch 126 average loss: 0.0550
+current epoch: 126 current liver dice: 0.9725 best mean dice: 0.9759  at epoch: 86
+epoch 127/500 epoch 127 average loss: 0.0597
+epoch 128/500 epoch 128 average loss: 0.0828
+current epoch: 128 current liver dice: 0.9444 best mean dice: 0.9759  at epoch: 86
+epoch 129/500 epoch 129 average loss: 0.0805
+epoch 130/500 epoch 130 average loss: 0.0834
+current epoch: 130 current liver dice: 0.9613 best mean dice: 0.9759  at epoch: 86
+epoch 131/500 epoch 131 average loss: 0.0736
+epoch 132/500 epoch 132 average loss: 0.0635
+current epoch: 132 current liver dice: 0.9712 best mean dice: 0.9759  at epoch: 86
+epoch 133/500 epoch 133 average loss: 0.1587
+epoch 134/500 epoch 134 average loss: 0.1465
+current epoch: 134 current liver dice: 0.9563 best mean dice: 0.9759  at epoch: 86
+epoch 135/500 epoch 135 average loss: 0.0976
+epoch 136/500 epoch 136 average loss: 0.0660
+current epoch: 136 current liver dice: 0.9692 best mean dice: 0.9759  at epoch: 86
+epoch 137/500 epoch 137 average loss: 0.0794
+epoch 138/500 epoch 138 average loss: 0.0681
+current epoch: 138 current liver dice: 0.9562 best mean dice: 0.9759  at epoch: 86
+epoch 139/500 epoch 139 average loss: 0.0594
+epoch 140/500 epoch 140 average loss: 0.0607
+current epoch: 140 current liver dice: 0.9656 best mean dice: 0.9759  at epoch: 86
+epoch 141/500 epoch 141 average loss: 0.0793
+epoch 142/500 epoch 142 average loss: 0.0816
+current epoch: 142 current liver dice: 0.9691 best mean dice: 0.9759  at epoch: 86
+epoch 143/500 epoch 143 average loss: 0.0741
+epoch 144/500 epoch 144 average loss: 0.0632
+current epoch: 144 current liver dice: 0.9621 best mean dice: 0.9759  at epoch: 86
+epoch 145/500 epoch 145 average loss: 0.0606
+epoch 146/500 epoch 146 average loss: 0.0685
+saved new best metric model
+current epoch: 146 current liver dice: 0.9766 best mean dice: 0.9766  at epoch: 146
+epoch 147/500 epoch 147 average loss: 0.0568
+epoch 148/500 epoch 148 average loss: 0.0554
+current epoch: 148 current liver dice: 0.9742 best mean dice: 0.9766  at epoch: 146
+epoch 149/500 epoch 149 average loss: 0.0610
+epoch 150/500 epoch 150 average loss: 0.0597
+current epoch: 150 current liver dice: 0.9751 best mean dice: 0.9766  at epoch: 146
+epoch 151/500 epoch 151 average loss: 0.0559
+epoch 152/500 epoch 152 average loss: 0.0550
+current epoch: 152 current liver dice: 0.9560 best mean dice: 0.9766  at epoch: 146
+epoch 153/500 epoch 153 average loss: 0.0531
+epoch 154/500 epoch 154 average loss: 0.0523
+current epoch: 154 current liver dice: 0.9620 best mean dice: 0.9766  at epoch: 146
+epoch 155/500 epoch 155 average loss: 0.0506
+epoch 156/500 epoch 156 average loss: 0.0635
+current epoch: 156 current liver dice: 0.9553 best mean dice: 0.9766  at epoch: 146
+epoch 157/500 epoch 157 average loss: 0.0823
+epoch 158/500 epoch 158 average loss: 0.0752
+current epoch: 158 current liver dice: 0.9731 best mean dice: 0.9766  at epoch: 146
+epoch 159/500 epoch 159 average loss: 0.0698
+epoch 160/500 epoch 160 average loss: 0.0678
+current epoch: 160 current liver dice: 0.9714 best mean dice: 0.9766  at epoch: 146
+epoch 161/500 epoch 161 average loss: 0.0547
+epoch 162/500 epoch 162 average loss: 0.0557
+current epoch: 162 current liver dice: 0.9675 best mean dice: 0.9766  at epoch: 146
+epoch 163/500 epoch 163 average loss: 0.0597
+epoch 164/500 epoch 164 average loss: 0.0603
+current epoch: 164 current liver dice: 0.9629 best mean dice: 0.9766  at epoch: 146
+epoch 165/500 epoch 165 average loss: 0.0594
+epoch 166/500 epoch 166 average loss: 0.0577
+current epoch: 166 current liver dice: 0.9531 best mean dice: 0.9766  at epoch: 146
+epoch 167/500 epoch 167 average loss: 0.0754
+epoch 168/500 epoch 168 average loss: 0.0630
+current epoch: 168 current liver dice: 0.9417 best mean dice: 0.9766  at epoch: 146
+epoch 169/500 epoch 169 average loss: 0.0542
+epoch 170/500 epoch 170 average loss: 0.0577
+current epoch: 170 current liver dice: 0.9739 best mean dice: 0.9766  at epoch: 146
+epoch 171/500 epoch 171 average loss: 0.0538
+epoch 172/500 epoch 172 average loss: 0.0523
+current epoch: 172 current liver dice: 0.9649 best mean dice: 0.9766  at epoch: 146
+epoch 173/500 epoch 173 average loss: 0.0522
+epoch 174/500 epoch 174 average loss: 0.0537
+current epoch: 174 current liver dice: 0.9549 best mean dice: 0.9766  at epoch: 146
+epoch 175/500 epoch 175 average loss: 0.0507
+epoch 176/500 epoch 176 average loss: 0.0813
+current epoch: 176 current liver dice: 0.8743 best mean dice: 0.9766  at epoch: 146
+epoch 177/500 epoch 177 average loss: 0.1004
+epoch 178/500 epoch 178 average loss: 0.0661
+saved new best metric model
+current epoch: 178 current liver dice: 0.9773 best mean dice: 0.9773  at epoch: 178
+epoch 179/500 epoch 179 average loss: 0.0554
+epoch 180/500 epoch 180 average loss: 0.0918
+current epoch: 180 current liver dice: 0.9618 best mean dice: 0.9773  at epoch: 178
+epoch 181/500 epoch 181 average loss: 0.0648
+epoch 182/500 epoch 182 average loss: 0.0530
+current epoch: 182 current liver dice: 0.9758 best mean dice: 0.9773  at epoch: 178
+epoch 183/500 epoch 183 average loss: 0.0502
+epoch 184/500 epoch 184 average loss: 0.0583
+current epoch: 184 current liver dice: 0.9765 best mean dice: 0.9773  at epoch: 178
+epoch 185/500 epoch 185 average loss: 0.0598
+epoch 186/500 epoch 186 average loss: 0.0554
+current epoch: 186 current liver dice: 0.9676 best mean dice: 0.9773  at epoch: 178
+epoch 187/500 epoch 187 average loss: 0.0536
+epoch 188/500 epoch 188 average loss: 0.0513
+current epoch: 188 current liver dice: 0.9742 best mean dice: 0.9773  at epoch: 178
+epoch 189/500 epoch 189 average loss: 0.0549
+epoch 190/500 epoch 190 average loss: 0.0668
+current epoch: 190 current liver dice: 0.9658 best mean dice: 0.9773  at epoch: 178
+epoch 191/500 epoch 191 average loss: 0.0534
+epoch 192/500 epoch 192 average loss: 0.0594
+current epoch: 192 current liver dice: 0.9772 best mean dice: 0.9773  at epoch: 178
+epoch 193/500 epoch 193 average loss: 0.0971
+epoch 194/500 epoch 194 average loss: 0.0893
+current epoch: 194 current liver dice: 0.9715 best mean dice: 0.9773  at epoch: 178
+epoch 195/500 epoch 195 average loss: 0.1058
+epoch 196/500 epoch 196 average loss: 0.0698
+current epoch: 196 current liver dice: 0.9709 best mean dice: 0.9773  at epoch: 178
+epoch 197/500 epoch 197 average loss: 0.0558
+epoch 198/500 epoch 198 average loss: 0.0587
+saved new best metric model
+current epoch: 198 current liver dice: 0.9780 best mean dice: 0.9780  at epoch: 198
+epoch 199/500 epoch 199 average loss: 0.0566
+epoch 200/500 epoch 200 average loss: 0.0562
+current epoch: 200 current liver dice: 0.9750 best mean dice: 0.9780  at epoch: 198
+epoch 201/500 epoch 201 average loss: 0.0520
+epoch 202/500 epoch 202 average loss: 0.0528
+current epoch: 202 current liver dice: 0.9769 best mean dice: 0.9780  at epoch: 198
+epoch 203/500 epoch 203 average loss: 0.0521
+epoch 204/500 epoch 204 average loss: 0.0611
+current epoch: 204 current liver dice: 0.9621 best mean dice: 0.9780  at epoch: 198
+epoch 205/500 epoch 205 average loss: 0.0533
+epoch 206/500 epoch 206 average loss: 0.0531
+current epoch: 206 current liver dice: 0.9706 best mean dice: 0.9780  at epoch: 198
+epoch 207/500 epoch 207 average loss: 0.0502
+epoch 208/500 epoch 208 average loss: 0.0549
+current epoch: 208 current liver dice: 0.9733 best mean dice: 0.9780  at epoch: 198
+epoch 209/500 epoch 209 average loss: 0.0494
+epoch 210/500 epoch 210 average loss: 0.0486
+current epoch: 210 current liver dice: 0.9767 best mean dice: 0.9780  at epoch: 198
+epoch 211/500 epoch 211 average loss: 0.0524
+epoch 212/500 epoch 212 average loss: 0.0654
+current epoch: 212 current liver dice: 0.9725 best mean dice: 0.9780  at epoch: 198
+epoch 213/500 epoch 213 average loss: 0.0608
+epoch 214/500 epoch 214 average loss: 0.0590
+current epoch: 214 current liver dice: 0.9685 best mean dice: 0.9780  at epoch: 198
+epoch 215/500 epoch 215 average loss: 0.0565
+epoch 216/500 epoch 216 average loss: 0.0574
+current epoch: 216 current liver dice: 0.9632 best mean dice: 0.9780  at epoch: 198
+epoch 217/500 epoch 217 average loss: 0.0503
+epoch 218/500 epoch 218 average loss: 0.0580
+current epoch: 218 current liver dice: 0.9745 best mean dice: 0.9780  at epoch: 198
+epoch 219/500 epoch 219 average loss: 0.0534
+epoch 220/500 epoch 220 average loss: 0.0529
+current epoch: 220 current liver dice: 0.9681 best mean dice: 0.9780  at epoch: 198
+epoch 221/500 epoch 221 average loss: 0.0521
+epoch 222/500 epoch 222 average loss: 0.0546
+current epoch: 222 current liver dice: 0.9683 best mean dice: 0.9780  at epoch: 198
+epoch 223/500 epoch 223 average loss: 0.0503
+epoch 224/500 epoch 224 average loss: 0.0767
+current epoch: 224 current liver dice: 0.9740 best mean dice: 0.9780  at epoch: 198
+epoch 225/500 epoch 225 average loss: 0.0653
+epoch 226/500 epoch 226 average loss: 0.1225
+current epoch: 226 current liver dice: 0.8505 best mean dice: 0.9780  at epoch: 198
+epoch 227/500 epoch 227 average loss: 0.0973
+epoch 228/500 epoch 228 average loss: 0.0659
+current epoch: 228 current liver dice: 0.9693 best mean dice: 0.9780  at epoch: 198
+epoch 229/500 epoch 229 average loss: 0.0576
+epoch 230/500 epoch 230 average loss: 0.0585
+current epoch: 230 current liver dice: 0.9712 best mean dice: 0.9780  at epoch: 198
+epoch 231/500 epoch 231 average loss: 0.0514
+epoch 232/500 epoch 232 average loss: 0.0581
+current epoch: 232 current liver dice: 0.9664 best mean dice: 0.9780  at epoch: 198
+epoch 233/500 epoch 233 average loss: 0.0527
+epoch 234/500 epoch 234 average loss: 0.0521
+current epoch: 234 current liver dice: 0.9659 best mean dice: 0.9780  at epoch: 198
+epoch 235/500 epoch 235 average loss: 0.0507
+epoch 236/500 epoch 236 average loss: 0.0467
+current epoch: 236 current liver dice: 0.9671 best mean dice: 0.9780  at epoch: 198
+epoch 237/500 epoch 237 average loss: 0.0485
+epoch 238/500 epoch 238 average loss: 0.0486
+current epoch: 238 current liver dice: 0.9617 best mean dice: 0.9780  at epoch: 198
+epoch 239/500 epoch 239 average loss: 0.0497
+epoch 240/500 epoch 240 average loss: 0.0492
+current epoch: 240 current liver dice: 0.9682 best mean dice: 0.9780  at epoch: 198
+epoch 241/500 epoch 241 average loss: 0.0566
+epoch 242/500 epoch 242 average loss: 0.0605
+current epoch: 242 current liver dice: 0.9701 best mean dice: 0.9780  at epoch: 198
+epoch 243/500 epoch 243 average loss: 0.0647
+epoch 244/500 epoch 244 average loss: 0.1579
+current epoch: 244 current liver dice: 0.9301 best mean dice: 0.9780  at epoch: 198
+epoch 245/500 epoch 245 average loss: 0.1098
+epoch 246/500 epoch 246 average loss: 0.0768
+current epoch: 246 current liver dice: 0.9672 best mean dice: 0.9780  at epoch: 198
+epoch 247/500 
